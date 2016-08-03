@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uniwork</string>
+    <string name="action_settings">Settings</string>
+    <string name = "mc_SavedData">mc_Data</string>
+    <string name="mc_Map">mcMapActivity</string>
+    <string name="mc_Canvas">mcCanvasActivity</string>
+</resources>
